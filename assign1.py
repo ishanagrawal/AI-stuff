@@ -1,8 +1,4 @@
-#!/usr/bin/python
 # A* 8-Puzzle Solver
-# Copyright (c) 2005 Brandon Sterne
-# Licensed under the MIT license.
-# http://brandon.sternefamily.net/files/mit-license.txt
 
 try:
     import psyco        #Python optimizer
