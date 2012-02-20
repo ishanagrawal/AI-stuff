@@ -221,7 +221,7 @@ def main():
 
     global choice
 
-    print "Welcome to Brandon Sterne's 8-Puzzle solver."
+    print "Welcome to a 8-Puzzle solver."
     try:
         puz = int(raw_input('Type "1" to use a default puzzle' + \
                             ' or "2" to enter your own puzzle: '))
