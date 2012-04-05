@@ -15,7 +15,7 @@
 ;;modules already taken by the student to satisfy prereqs
 (deffacts taken
 (modules_taken 
-	(module cs1231 cs2271 cs1102))
+	(module cs3215 cs2271 cs1102))
 )
 
 ;;database of modules
